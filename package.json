@@ -1,0 +1,22 @@
+{
+  "name": "react-from-scratch",
+  "version": "1.0.0",
+  "description": " Namaste React course",
+  "main": "App.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denisvely/react-from-scratch.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Denis Veli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/denisvely/react-from-scratch/issues"
+  },
+  "homepage": "https://github.com/denisvely/react-from-scratch#readme"
+}
